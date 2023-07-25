@@ -4,8 +4,7 @@
 	"description": "This is a project to continuing learning about important concepts in backend development",
 	"keywords": [ "freecodecamp", "backenddevelopment", "continuouslearning" ],
 	"dependencies": {
-		"express": "^4.14.0",
-		"@freecodecamp/example": "^1.2.13"
+		"express": "^4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
